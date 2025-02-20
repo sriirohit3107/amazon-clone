@@ -22,7 +22,7 @@ Project Setup
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/amazon-clone.git
+git clone https://github.com/sriirohit3107/amazon-clone.git
 
 Navigate to the project folder:
 cd amazon-clone
@@ -39,7 +39,7 @@ Contributing
 Fork the repository.
 
 Clone your fork:
-git clone https://github.com/YourUsername/amazon-clone.git
+git clone https://github.com/sriirohit3107/amazon-clone.git
 Create a new branch for your feature:
 git checkout -b new-feature
 
